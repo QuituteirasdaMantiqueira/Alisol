@@ -80,4 +80,7 @@ footer a:hover {
     h2 {
         font-size: 1.5em;
     }
+    .logoheader {
+        max-width: 400px;
+    }
 }
